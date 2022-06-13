@@ -1,7 +1,7 @@
 alabaster 
 anaconda-client 
 
-anaconda-project       
+     
 appdirs==1.4.4
 applaunchservices 
 appnope 
