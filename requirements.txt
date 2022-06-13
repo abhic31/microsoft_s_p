@@ -38,7 +38,7 @@ chardet
 
 click==8.0.3
 cloudpickle 
-clyent==1.2.2
+
 colorama 
 conda==4.12.0
 conda-build==3.21.5
