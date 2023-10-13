@@ -13,7 +13,7 @@ print(data.head())
 #dividing train and test data
 x = data[["Open", "High", "Low"]]
 y = data["Close"]
-x = x.to_numpy()
+x = x.to_numpy()# convert to numpy array
 y = y.to_numpy()
 y = y.reshape(-1, 1)
 
